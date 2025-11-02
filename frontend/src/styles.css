@@ -1,0 +1,7 @@
+body { background-color: #0b0e14; }
+.navbar-dark { background-color: #1a1f2b !important; }
+.card { background-color: #121826; color: #e6edf3; }
+.btn-primary { background-color: #0d6efd; }
+.badge.bg-secondary { background-color: #2b3446 !important; }
+.progress { background-color: #2b3446; height: 8px; }
+.progress-bar { background-color: #20c997; }

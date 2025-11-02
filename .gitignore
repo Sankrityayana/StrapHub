@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# Vite
+dist/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Old scaffold (safe to remove after verifying root setup)
+bootstraplab/
